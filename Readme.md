@@ -10,17 +10,17 @@ To make language learning simple, personalized, and accessible for everyone arou
 ## 🧠Vision
 To become a leading platform that helps people connect through language, grow personally, and succeed globally.
 ## 📑Contents
-- <a>Introduction</a>
-- <a>Purpose and Vision</a>
-- <a>Key Features</a>
-- <a>Languages Offered</a>
-- <a>Learning Methods</a>
-- <a>Mobile App Experience</a>
-- <a>Comparison with Other Platforms</a>
-- <a>Benefits & Limitations</a>
-- <a>Pricing and Plans</a>
-- <a>User Reviews & Feedback</a>
-- <a>Conclusion</a>
+- <a herf='#'>  Introduction</a>
+- <a herf='#'>Purpose and Vision</a>
+- <a herf='#'>Key Features</a>
+- <a herf='#'>Languages Offered</a>
+- <a herf='#'>Learning Methods</a>
+- <a herf='#'>Mobile App Experience</a>
+- <a herf='#'>Comparison with Other Platforms</a>
+- <a herf='#'>Benefits & Limitations</a>
+- <a herf='#'>Pricing and Plans</a>
+- <a herf='#'>User Reviews & Feedback</a>
+- <a herf='#'>Conclusion</a>
 --------------
 ## 🎀Features
 - Personalized Learning
